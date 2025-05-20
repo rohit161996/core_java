@@ -12,5 +12,4 @@ public class BooleanLiteral {
 		//boolean a="true"; //error
 		//boolean a=t_rue; //error
 	}
-
 }
